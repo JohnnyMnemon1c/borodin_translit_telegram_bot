@@ -1,2 +1,8 @@
-# borodin_translit_telegram_bot
-your assistant in transliteration with logging to a file running from a docker container
+docker aiogram bot
+
+How to run:
+
+install docker somehow
+clone this repo
+add TOKEN from @BotFather to ../config.py
+run via docker
